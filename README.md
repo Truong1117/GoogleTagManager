@@ -25,4 +25,3 @@ Copy the zip into app/code/WeltPixel/GoogleTagManager directory
 $ php bin/magento module:enable WeltPixel_GoogleTagManager --clear-static-content
 $ php bin/magento setup:upgrade
 ```
-# GoogleTagManager
